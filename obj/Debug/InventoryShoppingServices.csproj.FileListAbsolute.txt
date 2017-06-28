@@ -1,0 +1,5 @@
+C:\Users\HABIRAM PC\Documents\Visual Studio 2015\Projects\InventoryShoppingServices\InventoryShoppingServices\bin\Debug\InventoryShoppingServices.dll
+C:\Users\HABIRAM PC\Documents\Visual Studio 2015\Projects\InventoryShoppingServices\InventoryShoppingServices\bin\Debug\InventoryShoppingServices.pdb
+C:\Users\HABIRAM PC\Documents\Visual Studio 2015\Projects\InventoryShoppingServices\InventoryShoppingServices\obj\Debug\InventoryShoppingServices.csprojResolveAssemblyReference.cache
+C:\Users\HABIRAM PC\Documents\Visual Studio 2015\Projects\InventoryShoppingServices\InventoryShoppingServices\obj\Debug\InventoryShoppingServices.dll
+C:\Users\HABIRAM PC\Documents\Visual Studio 2015\Projects\InventoryShoppingServices\InventoryShoppingServices\obj\Debug\InventoryShoppingServices.pdb
